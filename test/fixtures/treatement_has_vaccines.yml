@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vaccines: one
+  treatements: one
+  users: one
+  Description: MyText
+
+two:
+  vaccines: two
+  treatements: two
+  users: two
+  Description: MyText

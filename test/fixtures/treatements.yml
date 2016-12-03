@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  veterinarians: one
+  pets: one
+  users: one
+  Description: MyText
+
+two:
+  veterinarians: two
+  pets: two
+  users: two
+  Description: MyText

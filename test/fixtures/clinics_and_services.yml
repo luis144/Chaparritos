@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  animal_health_centers: one
+  services: one
+  NumOfServices: 1
+
+two:
+  animal_health_centers: two
+  services: two
+  NumOfServices: 1

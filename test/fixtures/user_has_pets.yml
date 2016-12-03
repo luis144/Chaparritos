@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pets: one
+  users: one
+  NumOfPets: 1
+
+two:
+  pets: two
+  users: two
+  NumOfPets: 1
